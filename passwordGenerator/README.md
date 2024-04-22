@@ -56,7 +56,7 @@ npm run dev
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Bhuvan Tenguria](https://github.com/Bhuvantenguria)
 
 ## License
 
